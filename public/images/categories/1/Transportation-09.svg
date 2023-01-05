@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M268.1,448h-24.1c-12.5,0-22.6-10.1-22.6-22.6V301.6c0-12.5,10.1-22.6,22.6-22.6h24.1c12.5,0,22.6,10.1,22.6,22.6v123.8
+			C290.7,437.9,280.5,448,268.1,448z"/>
+		
+			<ellipse fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="256" cy="118.8" rx="54.7" ry="54.8"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="310.4" y1="113.2" x2="391" y2="113.2"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="121" y1="113.2" x2="201.6" y2="113.2"/>
+		<path fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M221.3,391.6c-37.7-11.5-65.2-46.7-65.2-88.3v-85.2c0-30.8,24.9-55.7,55.6-55.7h11.1"/>
+		<path fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M289.2,162.4h11.1c30.7,0,55.6,25,55.6,55.7v85.2c0,41.4-27.2,76.4-64.7,88.1"/>
+	</g>
+	<path fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M318.4,277.6c-7.7-17.6-25.2-29.9-45.6-29.9h-33.5c-20.4,0-38,12.3-45.6,29.9"/>
+</g>
+</svg>

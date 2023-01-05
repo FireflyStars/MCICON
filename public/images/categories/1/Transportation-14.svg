@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	<g>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			241.8,237.8 241.8,177.4 319.8,177.4 319.8,237.8 		"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			280.8,177.4 280.8,114 301.6,114 		"/>
+	</g>
+	
+		<ellipse fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="280.8" cy="316.9" rx="167.2" ry="81.1"/>
+	<g>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			115,302.6 64,282.5 64,238.1 113.2,238.1 154.7,263.7 		"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			115,331.3 64,351.4 64,395.8 113.2,395.8 154.7,370.1 		"/>
+	</g>
+	<g>
+		
+			<circle fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="193.9" cy="316.9" r="24.5"/>
+		
+			<circle fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="280.8" cy="316.9" r="24.5"/>
+		
+			<circle fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="367.7" cy="316.9" r="24.5"/>
+	</g>
+</g>
+</svg>
